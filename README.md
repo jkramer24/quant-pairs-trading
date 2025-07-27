@@ -16,7 +16,7 @@ This project evaluates three pairs trading strategies within the cryptocurrency 
 
 ---
 
-## 📈 Strategy I: BTC & Basket of 25 Cryptocurrencies
+## Strategy I: BTC & Basket of 25 Cryptocurrencies
 
 **Signal:** Z-score of spread between BTC and synthetic basket  
 **Entry/Exit Thresholds:** 3.0 / 0.5
@@ -28,7 +28,7 @@ Sharpe Ratio: **0.597**
 
 ---
 
-## 📉 Strategy II: BTC & STETH
+## Strategy II: BTC & STETH
 
 **Signal:** Beta-weighted spread from linear regression  
 **Entry/Exit Thresholds:** 3.0 / 0.5
@@ -40,7 +40,7 @@ Sharpe Ratio: **0.454**
 
 ---
 
-## 🚀 Strategy III: ADA & XLM
+## Strategy III: ADA & XLM
 
 **Signal:** Regression-weighted spread  
 **Entry/Exit Thresholds:** 2.0 / -2.0
